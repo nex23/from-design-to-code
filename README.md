@@ -1,1 +1,1 @@
-Source code of the Web Development bootcamp From Design to Code lecture. The `boilerplate` branch holds the lecture starting boilerplate and the `solution` branch holds the final state.
+Source code for an app to allow search movies from a list.
